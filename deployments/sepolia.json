@@ -1,0 +1,6 @@
+{
+  "MyAuctionImpl": "0xf5a2dC1dBBFFD974f0D4ee7770151450b93d49C7",
+  "UpgradeableBeacon": "0x804f65F1451C580A028245E65C94377D45F295de",
+  "AuctionFactoryProxy": "0xB88c04D0b78aceDd5A761e6326c98a0df9331e12",
+  "network": "sepolia"
+}
